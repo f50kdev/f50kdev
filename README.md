@@ -1,4 +1,4 @@
-# Oi,  Hello  , ой , 哦 👋
+#  Hello  , ой , 哦 👋
 My name is 🤓 Faustino henriques, I´m from Angola 🇦🇴  I´m A Computer Enginner, that has been working as Front-end developer since 2017. 
 
 I am passionate about solving problems and learning. Always be open to new challenges and ready to face change. I dream of one day contributing to FANG's solutions
@@ -6,8 +6,8 @@ I am passionate about solving problems and learning. Always be open to new chall
 #### "" Technologies & Contributions ""
  <div>
   <a href="https://github.com/f50kdev">
-  <img height="180em" src="https://github.com/f50kdev/devlunda.github.io"/>
-  <img height="180em" src="https://github.com/f50kdev/henriques52.github.io"/>
+  <img height="180em" src="https://github.com/f50kdev"/>
+  <img height="180em" src="https://github.com/f50kdev"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Faustinohenriques-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
