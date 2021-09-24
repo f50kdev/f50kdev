@@ -1,5 +1,5 @@
 #  Hello  , ой , 哦 👋
-My name is 🤓 Faustino henriques, I´m from Angola 🇦🇴  I´m A Computer Enginner, that has been working as Front-end developer since 2017. 
+My name is 🤓 Faustino henriques, I´m from Angola 🇦🇴  I´m A Computer Enginner, that has been working as Front-end developer since 2018. 
 
 I am passionate about solving problems and learning. Always be open to new challenges and ready to face change. I dream of one day contributing to FANG's solutions
 
@@ -26,7 +26,7 @@ I am passionate about solving problems and learning. Always be open to new chall
   <a href="https://www.instagram.com/henriquesf52/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  <!--inserir a conta do Twitch-->
- <a href="https://web.facebook.com/henriques.freezyii/"><h4 style="link:none"> Meu Perfil</h4> </a>
+ <a href="https://web.facebook.com/henriques.freezyii/"><h4 style="link:none"> Acessar o meu Facebook</h4> </a>
  	
   <a href = "eadpea2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--logo youtube-->
