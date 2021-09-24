@@ -29,6 +29,6 @@ I am passionate about solving problems and learning. Always be open to new chall
   <a href = "eadpea2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/faustino-henriques-317a84208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/PedroMakengo/PedroMakengo/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/f50kdev/f50kdev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
