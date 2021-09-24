@@ -26,7 +26,7 @@ I am passionate about solving problems and learning. Always be open to new chall
   <a href="https://www.instagram.com/henriquesf52/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  <!--inserir a conta do Twitch-->
- <a href="https://web.facebook.com/henriques.freezyii/"> Meu Perfil </a>
+ <a href="https://web.facebook.com/henriques.freezyii/"><h4 style="link:none"> Meu Perfil</h4> </a>
  	
   <a href = "eadpea2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--logo youtube-->
