@@ -1,5 +1,5 @@
 # Oi,  Hello  , ой , 哦 👋
-My name is 🤓 , I´m from Angola 🇦🇴  I´m A Computer Enginner, that has been working as Front-end developer since 2017. 
+My name is 🤓 Faustino henriques, I´m from Angola 🇦🇴  I´m A Computer Enginner, that has been working as Front-end developer since 2017. 
 
 I am passionate about solving problems and learning. Always be open to new challenges and ready to face change. I dream of one day contributing to FANG's solutions
 
