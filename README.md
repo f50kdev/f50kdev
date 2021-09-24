@@ -10,13 +10,14 @@ I am passionate about solving problems and learning. Always be open to new chall
 <img height="180em" src="https://­github-readme-stats.v­ercel.app/api/­top-langs/­?username=pedromakeng­o&layout=compact&lan­gs_count=7&theme=dra­cula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Faustinohenriques-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Faustino_Henriques-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Faustino_Henriques-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Faustino_Henriques-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Faustino_Henriques-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+<img align="center" alt="PedroMakengo-Js­" height="30" width="40" src="https://­raw.githubusercontent­.com/devicons/­devicon/master/icons/­javascript/­javascript-plain.svg">
+<img align="center" alt="PedroMakengo-Ts­" height="30" width="40" src="https://­raw.githubusercontent­.com/devicons/­devicon/master/icons/­typescript/­typescript-plain.svg">
+<img align="center" alt="PedroMakengo-Re­act" height="30" width="40" src="https://­raw.githubusercontent­.com/devicons/­devicon/master/icons/­react/­react-original.svg">
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://­raw.githubusercontent­.com/devicons/­devicon/master/icons/­html5/­html5-original.svg">
+<img align="center" alt="PedroMakengo-CS­S" height="30" width="40" src="https://­raw.githubusercontent­.com/devicons/­devicon/master/icons/­css3/­css3-original.svg">
+
 </div>
+
  
   
   ##
