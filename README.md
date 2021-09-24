@@ -6,7 +6,7 @@ I am passionate about solving problems and learning. Always be open to new chall
 #### "" Technologies & Contributions ""
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromakengo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faustinohenriques_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromakengo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -17,6 +17,7 @@ I am passionate about solving problems and learning. Always be open to new chall
   <img align="center" alt="Faustino_Henriques-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
+ 
   
   ##
   <!--inserir a conta do instagram-->
