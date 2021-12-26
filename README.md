@@ -12,7 +12,7 @@
   <img align="center" alt="f50kdev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="f50kdev-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:1000px;" src="https://raw.githubusercontent.com/f50kdev/Imagens/readme/perfilf.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:1000px;" src="https://github.com/f50kdev/f50kdev/blob/readme/LOGO2.png">
 </div>
   
   <div>
