@@ -10,9 +10,9 @@
   <img align="center" alt="f50kdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="f50kdev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="f50kdev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="f50kdev-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="f50kdev-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:1000px;" src="https://github.com/f50kdev/f50kdev/blob/readme/LOGO2.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:1000px;" src="https://github.com/f50kdev/Imagens/blob/readme/Group%201171275311.png">
 </div>
   
   <div>
